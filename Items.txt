@@ -1,0 +1,67 @@
+Battle System faster hits first, weapons give speed buffs
+No armor but you can train to improve your defense stat
+attack is how much dammage your attacks do -your enemys defense trait
+Eat food to recover health
+inventory can hold 100 but items that are bigger cost more space
+
+Food:
+
+
+Weapons:
+Stick
+Short Sword
+Long Sword
+Broad Sword
+Sickle
+Sythe
+Spear
+Royal Spear
+Club
+Mace
+Ball&Chain
+Whip
+Chain Whip
+Bow
+Cross Bow
+Book of Silva
+Book of Silva W. Expansion Pack
+Steak Knife
+Skinning Knife
+Cleaver
+Throwing Knife
+Katana
+Throwing Stars
+Pole Arm
+Nun Chucks
+Javelin
+Trident
+Blow Darts
+Poison Blow Darts
+Lance
+Axe
+Boomerang
+Tomahawk
+Hammer
+Brass Knuckles
+Scimitar
+Barbed Wire
+Battle Axe
+Sling
+
+
+Gems:
+Silvite
+Warite
+Emeral
+Diamond
+Saphire
+Ruby
+Topaz
+Aquamarine
+Turquise
+Opal
+Quartz
+Jade
+Amber
+Jasper
+Silvithium
