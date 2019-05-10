@@ -4,6 +4,20 @@ attack is how much dammage your attacks do -your enemys defense trait
 Eat food to recover health
 inventory can hold 100 but items that are bigger cost more space
 
+NPC
+freindly or unfreindly
+freindly: sells, buys, enchant or heals
+unfreindly: attacks, robs, || runs
+lowers karma if you kill friendlies
+
+Race
+HP
+Attack
+Deffense
+Speed
+Intellect
+Charisma
+
 Food:
 
 
@@ -26,7 +40,7 @@ Cross Bow
 Book of Silva
 Book of Silva W. Expansion Pack
 Steak Knife
-Skinning Knife
+Hunting Knife
 Cleaver
 Throwing Knife
 Katana
@@ -65,3 +79,13 @@ Jade
 Amber
 Jasper
 Silvithium
+
+ Elf
+ Orc
+ WereWolf
+ Goblin
+ Gnomes
+ Dwarf
+ Trolls
+ Leprichaun
+ Gremlin
