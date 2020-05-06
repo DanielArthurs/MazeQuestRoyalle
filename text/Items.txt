@@ -1,19 +1,19 @@
 Battle System faster hits first, weapons give speed buffs
 No armor but you can train to improve your defense stat
-attack is how much dammage your attacks do -your enemys defense trait
+attack is how much damage your attacks do minus your enemy's defense trait
 Eat food to recover health
 inventory can hold 100 but items that are bigger cost more space
 
 NPC
-freindly or unfreindly
-freindly: sells, buys, enchant or heals
-unfreindly: attacks, robs, || runs
+friendly or unfreindly
+friendly: sells, buys, enchant or heals
+unfriendly: attacks, robs, || runs
 lowers karma if you kill friendlies
 
 Race
 HP
 Attack
-Deffense
+Defense
 Speed
 Intellect
 Charisma
@@ -38,7 +38,7 @@ Chain Whip
 Bow
 Cross Bow
 Book of Silva
-Book of Silva W. Expansion Pack
+Book of Silva II [Expansion Pack: Lore of Tyber Zahn]
 Steak Knife
 Hunting Knife
 Cleaver
@@ -80,12 +80,13 @@ Amber
 Jasper
 Silvithium
 
- Elf
- Orc
- WereWolf
- Goblin
- Gnomes
- Dwarf
- Trolls
- Leprichaun
- Gremlin
+Races:
+Elf
+Orc
+WereWolf
+Goblin
+Gnomes
+Dwarf
+Trolls
+Leprichaun
+Gremlin
