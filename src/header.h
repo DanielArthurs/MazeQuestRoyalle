@@ -3,24 +3,24 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-int rand_4(void);
-typedef struct npc{
-	(int ai)(void)
-}
-typedef struct item(
+int rand_ranged(int, int);
+struct npc{
+	int (*ai)(void);
+};
+struct item{
 	int category; /* weapon = 0 food = 1 gem = 2 */
 	int damage;
 	int inventory; // how much space taken in inventory
 	int spell;
-)
-typedef struct room{
+};
+struct room{
 	char d1;
 	char d2;
 	char d3;
 	char d4;
-	item *items;
-	npc npcs;
-}
+	struct item *items;
+	struct npc npcs;
+};
 
 
 
