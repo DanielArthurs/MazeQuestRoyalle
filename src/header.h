@@ -1,12 +1,13 @@
-#if !defined HEADER_H 
+#ifndef HEADER_H 
 #define HEADER_H 1
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-int32_t DOOR_UP = 0x01;
-int32_t DOOR_DOWN = 0x02;
-int32_t DOOR_LEFT = 0x04;
-int32_t DOOR_RIGHT = 0x08;
+
+#define DOOR_UP 0x01;
+#define DOOR_DOWN 0x02;
+#define DOOR_LEFT 0x04;
+#define DOOR_RIGHT 0x08;
 
 int32_t rand_ranged(int32_t, int32_t);
 struct npc{
