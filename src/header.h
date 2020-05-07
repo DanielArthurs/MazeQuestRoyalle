@@ -3,6 +3,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+int DOOR_UP = 0x01;
+int DOOR_DOWN = 0x02;
+int DOOR_LEFT = 0x04;
+int DOOR_RIGHT = 0x08;
+
 int rand_ranged(int, int);
 struct npc{
 	int (*ai)(void);
