@@ -3,8 +3,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdint.h>
 
-#define DOOR_UP 0x01;
+#define DOOR_UP 0x01; //use these for masks of which doors a room has
 #define DOOR_DOWN 0x02;
 #define DOOR_LEFT 0x04;
 #define DOOR_RIGHT 0x08;
